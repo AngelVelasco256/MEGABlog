@@ -1,0 +1,29 @@
+commit 2a00b3863b503b872746a2b96124680981395832
+Author: AngelVelasco <ahernandezv1808@alumno.ipn.mx>
+Date:   Fri Jun 14 16:16:24 2024 -0600
+
+    Se cambio el nombre del archivo TXT
+
+commit 6e8977169648c84ef8d56ab453f6ee69ce041b2c
+Author: AngelVelasco <ahernandezv1808@alumno.ipn.mx>
+Date:   Fri Jun 14 16:12:06 2024 -0600
+
+    Se agrego la fecha de mi primer PC
+
+commit ac758cd78bce91853aedc4db340ce6b946a1ff51
+Author: AngelVelasco <ahernandezv1808@alumno.ipn.mx>
+Date:   Fri Jun 14 15:51:30 2024 -0600
+
+    Se corrigio la ciudad de nacimiento
+
+commit d405e4af120119ee631096afb37940b6f06fd385
+Author: AngelVelasco <ahernandezv1808@alumno.ipn.mx>
+Date:   Fri Jun 14 15:49:42 2024 -0600
+
+    Se modifico el lugar de nacimiento
+
+commit 06931b8cfdfe950d2cab0e8fa324e634eeebac52
+Author: AngelVelasco <ahernandezv1808@alumno.ipn.mx>
+Date:   Fri Jun 14 00:00:48 2024 -0600
+
+    Mi primer commit

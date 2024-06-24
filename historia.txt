@@ -3,3 +3,5 @@ Hola amigos de platzi, tengo 20 años, naci en la CDMX en el 2003 y actualmente 
 saludos
 
 Mi primer computadora la tuve a los 15 años, cuando mi madre me la compro por motivos de estudio
+
+Ahora estoy trabajando desde mi PC personal con Windows y no con linux

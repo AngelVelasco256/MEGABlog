@@ -39,6 +39,11 @@ body {
 }
 
 .post {
-    background-color: white;
-    padding: 1rem;
+    padding: 1em;
+}
+
+.footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }

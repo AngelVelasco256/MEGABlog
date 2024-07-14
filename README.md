@@ -7,8 +7,8 @@ Este repositorio contiene MEGABlog, un pequeño blog que sirve a manera de ejemp
 ## Futuro.
 Espero mejorar este blog con el tiempo, ire posteando cosas interesantes que a mi me gusten y que sean relevantes, que ayuden a la comunidad de platzi y en general a la comunidad de desarrolladores de LATAM. 
 
-> Somos polvo de estrellas que piensa acerca de las estrellas. Somos la forma en la que universo se piensa a sí mismo
-> - Carl Sagan
+> Valore su trabajo señor!
+> - JERA
 
 ## Temas de interes que puedes encontrar en MEGABlog: 
 - Tecnologia
